@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1610612764",
+    "shortName": "WAS",
+    "name": "wizards",
+    "city": "Washington",
+    "nickname": "Wizards",
+    "conferenceId": "1",
+    "divisionId": "5"
+  },
+  {
+    "id": "1610612762",
+    "shortName": "UTA",
+    "name": "jazz",
+    "city": "Utah",
+    "nickname": "Jazz",
+    "conferenceId": "2",
+    "divisionId": "3"
+  },
+  {
+    "id": "1610612761",
+    "shortName": "TOR",
+    "name": "raptors",
+    "city": "Toronto",
+    "nickname": "Raptors",
+    "conferenceId": "1",
+    "divisionId": "1"
+  },
+  {
+    "id": "1610612759",
+    "shortName": "SAS",
+    "name": "spurs",
+    "city": "San Antonio",
+    "nickname": "Spurs",
+    "conferenceId": "2",
+    "divisionId": "6"
+  },
+  {
+    "id": "1610612758",
+    "shortName": "SAC",
+    "name": "kings",
+    "city": "Sacramento",
+    "nickname": "Kings",
+    "conferenceId": "2",
+    "divisionId": "4"
+  },
+  {
+    "id": "1610612757",
+    "shortName": "POR",
+    "name": "blazers",
+    "city": "Portland",
+    "nickname": "Trail Blazers",
+    "conferenceId": "2",
+    "divisionId": "3"
+  },
+  {
+    "id": "1610612756",
+    "shortName": "PHX",
+    "name": "suns",
+    "city": "Phoenix",
+    "nickname": "Suns",
+    "conferenceId": "2",
+    "divisionId": "4"
+  },
+  {
+    "id": "1610612755",
+    "shortName": "PHI",
+    "name": "sixers",
+    "city": "Philadelphia",
+    "nickname": "76ers",
+    "conferenceId": "1",
+    "divisionId": "1"
+  },
+  {
+    "id": "1610612753",
+    "shortName": "ORL",
+    "name": "magic",
+    "city": "Orlando",
+    "nickname": "Magic",
+    "conferenceId": "1",
+    "divisionId": "5"
+  },
+  {
+    "id": "1610612760",
+    "shortName": "OKC",
+    "name": "thunder",
+    "city": "Oklahoma City",
+    "nickname": "Thunder",
+    "conferenceId": "2",
+    "divisionId": "3"
+  },
+  {
+    "id": "1610612752",
+    "shortName": "NYK",
+    "name": "knicks",
+    "city": "New York",
+    "nickname": "Knicks",
+    "conferenceId": "1",
+    "divisionId": "1"
+  },
+  {
+    "id": "1610612740",
+    "shortName": "NOP",
+    "name": "pelicans",
+    "city": "New Orleans",
+    "nickname": "Pelicans",
+    "conferenceId": "2",
+    "divisionId": "6"
+  },
+  {
+    "id": "1610612750",
+    "shortName": "MIN",
+    "name": "timberwolves",
+    "city": "Minnesota",
+    "nickname": "Timberwolves",
+    "conferenceId": "2",
+    "divisionId": "3"
+  },
+  {
+    "id": "1610612749",
+    "shortName": "MIL",
+    "name": "bucks",
+    "city": "Milwaukee",
+    "nickname": "Bucks",
+    "conferenceId": "1",
+    "divisionId": "2"
+  },
+  {
+    "id": "1610612748",
+    "shortName": "MIA",
+    "name": "heat",
+    "city": "Miami",
+    "nickname": "Heat",
+    "conferenceId": "1",
+    "divisionId": "5"
+  },
+  {
+    "id": "1610612763",
+    "shortName": "MEM",
+    "name": "grizzlies",
+    "city": "Memphis",
+    "nickname": "Grizzlies",
+    "conferenceId": "2",
+    "divisionId": "6"
+  },
+  {
+    "id": "1610612747",
+    "shortName": "LAL",
+    "name": "lakers",
+    "city": "Los Angeles",
+    "nickname": "Lakers",
+    "conferenceId": "2",
+    "divisionId": "4"
+  },
+  {
+    "id": "1610612746",
+    "shortName": "LAC",
+    "name": "clippers",
+    "city": "LA",
+    "nickname": "Clippers",
+    "conferenceId": "2",
+    "divisionId": "4"
+  },
+  {
+    "id": "1610612754",
+    "shortName": "IND",
+    "name": "pacers",
+    "city": "Indiana",
+    "nickname": "Pacers",
+    "conferenceId": "1",
+    "divisionId": "2"
+  },
+  {
+    "id": "1610612745",
+    "shortName": "HOU",
+    "name": "rockets",
+    "city": "Houston",
+    "nickname": "Rockets",
+    "conferenceId": "2",
+    "divisionId": "6"
+  },
+  {
+    "id": "1610612744",
+    "shortName": "GSW",
+    "name": "warriors",
+    "city": "Golden State",
+    "nickname": "Warriors",
+    "conferenceId": "2",
+    "divisionId": "4"
+  },
+  {
+    "id": "1610612765",
+    "shortName": "DET",
+    "name": "pistons",
+    "city": "Detroit",
+    "nickname": "Pistons",
+    "conferenceId": "1",
+    "divisionId": "2"
+  },
+  {
+    "id": "1610612743",
+    "shortName": "DEN",
+    "name": "nuggets",
+    "city": "Denver",
+    "nickname": "Nuggets",
+    "conferenceId": "2",
+    "divisionId": "3"
+  },
+  {
+    "id": "1610612742",
+    "shortName": "DAL",
+    "name": "mavericks",
+    "city": "Dallas",
+    "nickname": "Mavericks",
+    "conferenceId": "2",
+    "divisionId": "6"
+  },
+  {
+    "id": "1610612739",
+    "shortName": "CLE",
+    "name": "cavaliers",
+    "city": "Cleveland",
+    "nickname": "Cavaliers",
+    "conferenceId": "1",
+    "divisionId": "2"
+  },
+  {
+    "id": "1610612741",
+    "shortName": "CHI",
+    "name": "bulls",
+    "city": "Chicago",
+    "nickname": "Bulls",
+    "conferenceId": "1",
+    "divisionId": "2"
+  },
+  {
+    "id": "1610612766",
+    "shortName": "CHA",
+    "name": "hornets",
+    "city": "Charlotte",
+    "nickname": "Hornets",
+    "conferenceId": "1",
+    "divisionId": "5"
+  },
+  {
+    "id": "1610612751",
+    "shortName": "BKN",
+    "name": "nets",
+    "city": "Brooklyn",
+    "nickname": "Nets",
+    "conferenceId": "1",
+    "divisionId": "1"
+  },
+  {
+    "id": "1610612738",
+    "shortName": "BOS",
+    "name": "celtics",
+    "city": "Boston",
+    "nickname": "Celtics",
+    "conferenceId": "1",
+    "divisionId": "1"
+  },
+  {
+    "id": "1610612737",
+    "shortName": "ATL",
+    "name": "hawks",
+    "city": "Atlanta",
+    "nickname": "Hawks",
+    "conferenceId": "1",
+    "divisionId": "5"
+  }
+]
